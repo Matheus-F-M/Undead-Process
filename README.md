@@ -2,13 +2,17 @@
 Processo zumbi. Atividade CESAR School 02/2022.
 
 ## Intalation
-```git clone https://github.com/Matheus-F-M/Undead-Process.git```
+``` sh
+git clone https://github.com/Matheus-F-M/Undead-Process.git```
 
 ## Compile
-``` make binary ```
+``` sh
+make binary ```
 
 ## Runing
-``` make run ```
+``` sh
+make run ```
 
 ## Cleaning
-``` make clean ```
+``` sh
+make clean ```
